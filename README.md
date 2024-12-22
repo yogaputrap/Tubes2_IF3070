@@ -4,7 +4,7 @@ Pembelajaran mesin merupakan salah satu cabang dari kecerdasan buatan yang memun
 ## Cara Setup dan Run Program
 1. Lakukan clone repository dengan terminal menggunakan command berikut ""git clone https://github.com/yogaputrap/Tubes2_IF3070.git""
 2. Buka ke cmd atau terminal dan masuk ke directory clone "cd /Tubes2_IF3070"
-3. Jalankan program dengan command berikut "jupyter notebook"
+3. Jalankan program dengan command berikut "python -m notebook"
 ## Pembagian Tugas
 | NIM      | Nama               | Tugas                |
 |----------|--------------------|----------------------|
